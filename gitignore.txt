@@ -1,0 +1,16 @@
+# Ignorer les fichiers de logs
+*.log
+
+# Ignorer le dossier node_modules (typique pour les projets Node.js)
+node_modules/
+
+# Ignorer les fichiers générés par l'IDE ou l'éditeur
+*.idea/
+*.vscode/
+
+# Ignorer les fichiers compilés
+*.class
+*.exe
+
+# Ignorer les fichiers temporaires
+*.tmp
